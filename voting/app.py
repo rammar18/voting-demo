@@ -10,7 +10,7 @@ import signal
 import sys
 
 optionA = "aku"
-optionB = "dia"
+optionB = "kamu"
 name = optionA + " VS " + optionB
 
 redis = Redis(host="redis", db=0)
